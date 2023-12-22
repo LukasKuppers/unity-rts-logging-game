@@ -1,5 +1,7 @@
 # unity-rts-logging-game
 
+![Cover Image](./Images/first_capture.PNG)
+
 This is a prototype for a base-building / tycoon like logging game. It is built in Untiy 2022.3.
 
 ### More:
